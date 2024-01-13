@@ -4,17 +4,21 @@ Registry = {
     url  = "git@github.com:renehiemstra/MyRegistry.git",
     description = "MyRegistry local package registry",
     packages = {
-        Dep2 = {
-            path = "D/Dep2",
-            uuid = "54a01314-6edf-4953-8773-27edab679788",
+        Dep1 = {
+            path = "D/Dep1",
+            uuid = "fb04da88-e7da-4783-a160-8cb18c3a0ab4",
+        },
+        Example = {
+            path = "E/Example",
+            uuid = "d54d5c52-ce08-4de9-99ad-f5784c0efe0c",
         },
         DepDep = {
             path = "D/DepDep",
             uuid = "c6d80e12-ffab-4524-b935-acc054f14856",
         },
-        Dep1 = {
-            path = "D/Dep1",
-            uuid = "fb04da88-e7da-4783-a160-8cb18c3a0ab4",
+        Dep2 = {
+            path = "D/Dep2",
+            uuid = "54a01314-6edf-4953-8773-27edab679788",
         },
     },
 }
