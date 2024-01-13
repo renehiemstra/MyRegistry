@@ -8,6 +8,10 @@ Registry = {
             path = "D/Dep2",
             uuid = "54a01314-6edf-4953-8773-27edab679788",
         },
+        DepDep = {
+            path = "D/DepDep",
+            uuid = "c6d80e12-ffab-4524-b935-acc054f14856",
+        },
         Dep1 = {
             path = "D/Dep1",
             uuid = "fb04da88-e7da-4783-a160-8cb18c3a0ab4",
